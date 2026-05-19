@@ -3,9 +3,18 @@
 A console-based Inventory Management System built in C, designed to help small businesses and stores efficiently track, manage, and report on their product inventory in real time.
 
 > _This system is built as a part of first semester Computer Programming Project by the students of NED University of Engineering and Technology, Karachi, Pakistan._
+
 ---
 
-## 🛠️ System Options
+<h2>🛠️ Languages & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,vscode" />
+</p>
+
+---
+
+## ⚙️ System Options
 
 | Option | Description |
 |--------|-------------|
