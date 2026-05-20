@@ -44,9 +44,9 @@ A console-based Inventory Management System built in C, designed to help small b
 
 | Member | Contribution |
 |--------|-------------|
-| **Muhammad Mutahhar Khan** | Built Add Products, Delete Products, Display Products & compilation of the code. Test the whole program. |
-| **Ayesha Danyial** | Built Update Products, Low Stock Report. Deals with core Filing (saves and loads data). Test the program.|
-| **Muhammad Moosa Iqbal** | Built Sell Products. Help in test of program.|
+| **Muhammad Mutahhar Khan** | Built Add Products, Delete Products, Main Interface ( Menu and Frontend)  & compilation of the code. Test the whole program. |
+| **Ayesha Danyial** | Built Update Products, Low Stock Report. Deals with core Filing concepts (saves and loads data). Test the whole program.|
+| **Muhammad Moosa Iqbal** | Built Sell Products, Display Products |
 
 ---
 
